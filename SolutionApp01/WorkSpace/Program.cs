@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entities.Concrete;
+using System;
 
 namespace WorkSpace
 {
@@ -10,8 +11,9 @@ namespace WorkSpace
             string message = "WorkSpace!";
             Console.WriteLine(message);
             People people = new People();
-            
-          
+
+            Person person = new Person();
+
             
             Console.ReadLine();
         }

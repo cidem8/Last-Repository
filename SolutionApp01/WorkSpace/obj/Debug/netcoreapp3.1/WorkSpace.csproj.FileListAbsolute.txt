@@ -12,3 +12,6 @@ C:\Users\mhmt\Documents\GitHub\Last-Repository\SolutionApp01\WorkSpace\obj\Debug
 C:\Users\mhmt\Documents\GitHub\Last-Repository\SolutionApp01\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.dll
 C:\Users\mhmt\Documents\GitHub\Last-Repository\SolutionApp01\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.pdb
 C:\Users\mhmt\Documents\GitHub\Last-Repository\SolutionApp01\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.genruntimeconfig.cache
+C:\Users\mhmt\Documents\GitHub\Last-Repository\SolutionApp01\WorkSpace\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\mhmt\Documents\GitHub\Last-Repository\SolutionApp01\WorkSpace\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\mhmt\Documents\GitHub\Last-Repository\SolutionApp01\WorkSpace\obj\Debug\netcoreapp3.1\WorkSpace.csproj.CopyComplete
