@@ -14,8 +14,19 @@ namespace WorkSpace
 
             Person person = new Person();
 
-            
+            int sayi = Topla();
+            WelcomeMessage();
             Console.ReadLine();
+        }
+
+        static void WelcomeMessage()
+        {
+            Console.WriteLine("Merhaba, hocgeldiniz!");
+        }
+
+        static int Topla()
+        {
+            return 55;
         }
 
     
